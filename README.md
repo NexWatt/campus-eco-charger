@@ -86,7 +86,7 @@ flowchart TD
 *Save, track, and read these primary engineering references and manufacturing research papers to support your lab work and design calculations:*
 
 ### 🔋 Power Conversion & USB Interface Controls
-1. [Low-Cost Solar Mobile Phone Charger Optimization Study](https://researchgate.net) - Peer-reviewed analysis documenting buck tracking circuits built for optimized, stable 5.05V/1.51A portable mobile delivery profiles.
+1. [Low-Cost Solar Mobile Phone Cha  rger Optimization Study](https://www.researchgate.net/publication/381829022_DESIGN_AND_IMPLEMENTATION_OF_A_PORTABLE_LOW-COST_SOLAR-POWERED_MOBILE_PHONE_CHARGER_FOR_OFF-GRID_ENVIRONMENTS/link/66805add0a25e27fbc17048a/download?_tp=eyJjb250ZXh0Ijp7ImZpcnN0UGFnZSI6InNpZ251cCIsInBhZ2UiOiJwdWJsaWNhdGlvbiIsInByZXZpb3VzUGFnZSI6Il9kaXJlY3QifX0) - Peer-reviewed analysis documenting buck tracking circuits built for optimized, stable 5.05V/1.51A portable mobile delivery profiles.
 2. [Monolithic Power Systems (MPS): Type-C Power Delivery Controller Guide](https://monolithicpower.cn) - Technical guidelines on setting up CC1/CC2 pin resistance logic to safely manage USB Type-C smartphone handshakes.
 
 ### 📊 Analog Front-End & Telemetry Circuitry
