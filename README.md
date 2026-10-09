@@ -5,15 +5,15 @@ An intelligent, safe, low-voltage hybrid solar tracking and battery storage util
 ---
 
 ## 1️⃣ Team & Collaboration Status
-*   **Jap Ja Mun Pan** (Solo / Lead Systems Engineer)
-*   *Project Track:* Independent undergraduate project design. Open to collaborating with external university/industry research groups, and welcoming dedicated student team members passionate about hardware-software integration, power electronics, and embedded control loops.
-
+*   **Jap Ja Mun Pan** (Lead Systems Engineer)
+*   **Jousha Novotny** (...)
+*   *Project Track:* Undergraduate engineering capstone design. We operate as a focused peer-collaborative team.
 ---
 
 ## 2️⃣ Project Overview
-The **Campus Eco-Charger** is an all-season, smart microgrid harvesting station engineered to make clean power accessible, reliable, and safe. To eliminate the intermittency flaws of single-source systems, this project coordinates dual-source harvesting assets: an optimized solar array by day and an aerodynamic wind turbine spinner nocturnally or under heavy cloud cover. 
+The **Campus Eco-Charger** is a smart solar harvesting station engineered to make clean power accessible, reliable, and safe. The platform features an active dual-axis sensor matrix that dynamically tracks the sun's trajectory as it moves from East to West, eliminating manual adjustment and maximizing daily energy capture. 
 
-To maximize collection efficiency without manual human adjustment, an active sensor matrix tracks solar positioning from East to West. Crucially, the module utilizes all-season climate sensors to detect freezing temperatures, rain patterns, and winter snow accumulation. If environmental blockages occur, the controller triggers a localized protective hardware state, isolating core sub-systems and preventing structural or circuit wear.
+To ensure long-term hardware reliability, the system incorporates real-time monitoring circuits to execute an intelligent **Under-Voltage Lockout (UVLO)** protection state. If the battery storage bank drops to a critical discharge threshold, the controller automatically opens solid-state isolation switches to preserve cell health and prevent deep-discharge degradation.
 
 ---
 
